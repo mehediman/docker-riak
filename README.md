@@ -55,7 +55,7 @@ net.ipv4.tcp_moderate_rcvbuf = 1
 ### Clone repository and build Riak image
 
 ```bash
-$ git clone https://github.com/hectcastro/docker-riak.git
+$ git clone https://github.com/mehediman/docker-riak.git
 $ cd docker-riak
 $ make build
 ```
